@@ -1,0 +1,2 @@
+# RabbitMQTest
+RabbitMQTest sample projects
